@@ -1,0 +1,41 @@
+.navbar{
+    background-color: #01388f;
+    color: white;
+}
+
+
+
+.text-justify {
+    text-align: justify !important;
+  }
+
+
+.navbar-scroll {
+    background-color: rgba(255, 255, 255, 0.8); /* Adjust the background color as needed */
+    transition: background-color 0.3s ease;
+}
+
+footer {
+    padding: 50px 0px 50px 0px;
+    background-color: #01388f;
+    color: #fff;
+}
+
+footer .layar-dalam .copyright {
+    width: 100%;
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid white;
+    text-align: center;
+}
+
+.list-unstyled li a {
+    text-decoration: none;
+}
+/* .list-unstyled {
+    list-style: none;
+  } */
+
+.list-unstyled a:hover {
+    text-decoration: none;
+}
